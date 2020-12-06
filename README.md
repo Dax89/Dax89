@@ -1,7 +1,9 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-I'm a C++ Developer, hobbyist Reverse Engineer, Retrogamer and Linux user (I use Arch, btw). I love to study everything close to hardware (Firmware, Binary Blobs, CPU instruction sets, etc).<br>
-Everything I do is shared here on GitHub.<br>
-
+<ul>
+  <li> 1. I'm a C++ Developer, hobbyist Reverse Engineer, Retrogamer and Linux user (I use Arch, btw).</li>
+  <li> 2. I love to study everything close to hardware (File Formats, Firmware, Binary Blobs, CPU instruction sets, etc).</li>
+  <li> 3. Everything I do is shared here on GitHub.</li>
+</ul>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dax89" alt="Top Languages">
