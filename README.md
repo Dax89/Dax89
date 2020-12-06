@@ -1,6 +1,6 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <ul>
-  <li>I'm a C++ Developer, hobbyist Reverse Engineer, Retrogamer and Linux user (I use Arch, btw).</li>
+  <li>I'm a C++ Developer, hobbyist Reverse Engineer, Retrogamer and Linux user. <i>I use Arch, btw™</i></li>
   <li>I love to study everything close to hardware and doing software analysis (File Formats, Firmware, Binary Blobs, CPU instruction sets, etc).</li>
   <li>Everything I do is shared here on GitHub.</li>
 </ul>
