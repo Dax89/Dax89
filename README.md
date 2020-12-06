@@ -19,7 +19,7 @@ Since 2017 I'm spending most of my free time working on <a href="https://github.
     <a href="https://t.me/REDasmDisassembler">Telegram</a> (please be aware that crack requests are not allowed).
   </i>
 </details>
-<i>You can also check:</i>
+<i>Some interesting repositories:</i>
 <ul>
 <li><a href="https://github.com/Dax89/QHexView">QHexView</a>: A Qt5 hexadecimal widget.</li>
 <li><a href="https://github.com/Dax89/WebPirate">WebPirate</a>: WebKit based browser for SailfishOS.</li>
