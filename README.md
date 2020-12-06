@@ -11,7 +11,7 @@ Everything I do is shared here on GitHub.<br>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dax89" alt="Top Languages">
 </a>
 <p align="left">
-Since 2017 I'm spending most of my free time working on <a href="https://github.com/REDasmOrg/REDasm/tree/master">REDasm</a>, a cross platform disassembler :muscle: .<br>
+Since 2017 I'm spending most of my free time working on <a href="https://github.com/REDasmOrg/REDasm/tree/master">REDasm</a>, a cross platform disassembler :muscle: <br>
 <br>
 <i>You can also check:</i>
 <ul>
@@ -23,6 +23,7 @@ Since 2017 I'm spending most of my free time working on <a href="https://github.
 <br>
 <br>
 <hr>
-<p><i>You can also support my work!</i></p>
-<a href="https://ko-fi.com/K3K12VGAP"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
-<a href="https://liberapay.com/Dax89/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+<p align="right"><i>You can also support my work!</i>
+  <a href="https://ko-fi.com/K3K12VGAP"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
+  <a href="https://liberapay.com/Dax89/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+</p>
