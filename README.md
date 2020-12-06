@@ -15,7 +15,7 @@
 <p align="left">
 Since 2017 I'm spending most of my free time working on <a href="https://github.com/REDasmOrg/REDasm/tree/master">REDasm</a>, a cross platform disassembler.<br>
 <details>
-  <summary><b>Learn more about REDasm</b></summary>
+  <summary><b>Learn more about REDasm...</b></summary>
   <i>
     REDasm is under heavy development, check the "master" branch activity if you are interested.<br>
     You can also follow REDasm on 
