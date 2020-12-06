@@ -9,8 +9,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dax89" alt="Top Languages">
 </a>
 <p align="left">
-Since 2017 I'm spending most of my free time working on <a href="https://github.com/REDasmOrg/REDasm/tree/master">REDasm</a>, a cross platform disassembler :muscle: <br>
-<br>
+Since 2017 I'm spending most of my free time working on <a href="https://github.com/REDasmOrg/REDasm/tree/master">REDasm</a>, a cross platform disassembler.<br>
 <details>
   <summary><b>Learn more about REDasm</b></summary>
   <i>
@@ -36,6 +35,6 @@ Since 2017 I'm spending most of my free time working on <a href="https://github.
 </p>
 <br>
 <p align="right"><i>You can also support my work!</i><br><br>
-  <a href="https://ko-fi.com/K3K12VGAP"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
-  <a href="https://liberapay.com/Dax89/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a><br>
+  <a href="https://ko-fi.com/K3K12VGAP"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
+  <a href="https://liberapay.com/Dax89/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </p>
