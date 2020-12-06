@@ -34,7 +34,7 @@ Some interesting repositories:
 <br>
 <hr>
 <p align="right"><i>You can also support my work!</i><br><br>
-  <a href="https://ko-fi.com/K3K12VGAP" target="blank"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
-  <a href="https://liberapay.com/Dax89/donate" target="blank"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a><br>
-  <a href="https://www.paypal.me/Dax89" target="blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"></a>
+  <a href="https://ko-fi.com/K3K12VGAP"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
+  <a href="https://liberapay.com/Dax89/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a><br>
+  <a href="https://www.paypal.me/Dax89"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"></a>
 </p>
