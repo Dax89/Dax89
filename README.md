@@ -30,8 +30,8 @@ Since 2017 I'm spending most of my free time working on <a href="https://github.
 <br>
 <hr>
 <p align="center">
-  <a href="https://twitter.com/dax89"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dax89?label=Follow%20me%20on%20Twitter&style=for-the-badge"></a>
-  <a href="https://www.reddit.com/user/Dax_89"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Dax_89?label=Follow%20me%20on%20Reddit&style=for-the-badge"></a>
+  <a href="https://twitter.com/dax89"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dax89?label=Follow%20me%20on%20Twitter&style=flat-square"></a>
+  <a href="https://www.reddit.com/user/Dax_89"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Dax_89?label=Follow%20me%20on%20Reddit&style=flat-square"></a>
 </p>
 <br>
 <p align="right"><i>You can also support my work!</i><br><br>
