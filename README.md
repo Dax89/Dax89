@@ -21,11 +21,6 @@ Since 2017 I'm spending most of my free time working on <a href="https://github.
 <p>
 <a href="https://twitter.com/dax89"><img align="left" src="http://i.imgur.com/tXSoThF.png"></a>
 <a href="https://twitter.com/dax89"><img align="left" src="http://i.imgur.com/tXSoThF.png"></a>
-<a href="https://ko-fi.com/K3K12VGAP">
-  <img align="right" src="https://www.ko-fi.com/img/githubbutton_sm.svg">
-</a>
-<br>
-<a href="https://liberapay.com/Dax89/donate">
-  <img align="right" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
-</a>
+<a href="https://ko-fi.com/K3K12VGAP"><img align="right" src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br><br>
+<a href="https://liberapay.com/Dax89/donate"><img align="right" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </p>
