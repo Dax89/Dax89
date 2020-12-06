@@ -4,6 +4,10 @@
   <li>I love to study everything close to hardware and doing software analysis (File Formats, Firmware, Binary Blobs, CPU instruction sets, etc).</li>
   <li>Everything I do is shared here on GitHub.</li>
 </ul>
+<p align="center">
+  <a href="https://twitter.com/dax89"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dax89?label=Follow%20me%20on%20Twitter&style=flat-square"></a>
+  <a href="https://www.reddit.com/user/Dax_89"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Dax_89?label=Follow%20me%20on%20Reddit&style=flat-square"></a>
+</p>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dax89" alt="Top Languages">
@@ -29,11 +33,6 @@ Since 2017 I'm spending most of my free time working on <a href="https://github.
 <br>
 <br>
 <hr>
-<p align="center">
-  <a href="https://twitter.com/dax89"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dax89?label=Follow%20me%20on%20Twitter&style=flat-square"></a>
-  <a href="https://www.reddit.com/user/Dax_89"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Dax_89?label=Follow%20me%20on%20Reddit&style=flat-square"></a>
-</p>
-<br>
 <p align="right"><i>You can also support my work!</i><br><br>
   <a href="https://ko-fi.com/K3K12VGAP"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br>
   <a href="https://liberapay.com/Dax89/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
