@@ -11,6 +11,15 @@
 <p align="left">
 Since 2017 I'm spending most of my free time working on <a href="https://github.com/REDasmOrg/REDasm/tree/master">REDasm</a>, a cross platform disassembler :muscle: <br>
 <br>
+<details>
+  <summary><b>Learn more about REDasm</b></summary>
+  <i>
+    REDasm is under heavy development, check the `master` branch activity if you are interested.<br>
+    You can also follow REDasm on 
+    <a href="https://twitter.com/re_dasm">Twitter</a> or join the group on 
+    <a href="https://t.me/REDasmDisassembler">Telegram</a> (please be aware that crack requests are not allowed).
+  </i>
+</details>
 <i>You can also check:</i>
 <ul>
 <li><a href="https://github.com/Dax89/QHexView">QHexView</a>: A Qt5 hexadecimal widget.</li>
