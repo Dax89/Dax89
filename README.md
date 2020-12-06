@@ -19,8 +19,10 @@ Since 2017 I'm spending most of my free time working on <a href="https://github.
 <br>
 <hr>
 <p>
-<a href="https://twitter.com/dax89"><img align="left" src="http://i.imgur.com/tXSoThF.png"></a>
-<a href="https://twitter.com/dax89"><img align="left" src="http://i.imgur.com/tXSoThF.png"></a>
+<a href="https://twitter.com/dax89"><img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dax89?label=Follow%20me%20on%20Twitter&style=for-the-badge"></a><br><br>
+<a href="https://www.reddit.com/user/Dax_89"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Dax_89?label=Follow%20me%20on%20Reddit&style=for-the-badge"></a>
+<p align="right"><i>You can also support my work!</i></p>
 <a href="https://ko-fi.com/K3K12VGAP"><img align="right" src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a><br><br>
 <a href="https://liberapay.com/Dax89/donate"><img align="right" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </p>
+
