@@ -1,28 +1,38 @@
-<h1>Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<ul>
-  <li>I'm a C++ Developer, hobbyist Reverse Engineer, Retrogamer and Linux user.</li>
-  <li>I love to study everything close to hardware and doing software analysis (File Formats, Firmware, Binary Blobs, CPU instruction sets, etc).</li>
-  <li>Everything I do is shared here on GitHub.</li>
-</ul>
-<hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dax89" alt="Top Languages">
-</a>
-<p align="left">
-Since 2017 I'm spending most of my free time working on <a href="https://github.com/REDasmOrg/REDasm/tree/master">REDasm</a>, a cross platform disassembler.<br>
-<details>
-  <summary><b>Learn more about REDasm...</b></summary>
+Welcome Stranger 👋
+=======================
+I’m a passionate C++ developer, reverse engineering enthusiast, retro gaming aficionado, and dedicated Linux user. \
+I focus on low-level systems, from hardware interactions to software analysis like file formats, firmware, binary blobs, and CPU instruction sets. \
+All my projects and discoveries are shared here on GitHub for others to explore and learn from.
+
+* 🌍  I'm based in Italy
+* 🚀  I'm currently working on [REDasm Disassembler](http://redasm.dev)
+* 🐧  [Void Linux](https://voidlinux.org) user
+
+### Skills                                      Socials
+<p>
+  <a href="https://en.cppreference.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://qt.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" width="36" height="36" alt="Qt" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+  <a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+  <img width="405" height="1">
+  <a href="https://discord.com/users/284682766405074944" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/dax89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/antoniodavidetrogu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.x.com/dax89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
+### GitHub Activity
+[![My GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Dax89&theme=github&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="right">
   <i>
-    REDasm is under heavy development, check the "master" branch activity if you are interested.<br>
-    You can also follow REDasm on 
-    <a href="https://twitter.com/re_dasm">Twitter</a> or join the group on 
-    <a href="https://t.me/REDasmDisassembler">Telegram</a> (please be aware that crack requests are not allowed).
+    If you find my open-source work helpful,<br>
+    consider supporting it by <a href="https://github.com/sponsors/Dax89" target="_blank" rel="noreferrer">sponsoring me</a>!
   </i>
-</details>
-Some interesting repositories:
-<ul>
-<li><a href="https://github.com/Dax89/QHexView">QHexView</a>: A Qt5 hexadecimal widget.</li>
-<li><a href="https://github.com/Dax89/WebPirate">WebPirate</a>: WebKit based browser for SailfishOS.</li>
-<li><a href="https://github.com/QtGram/harbour-sailorgram">SailorGram</a>: A Telegram Client for SailfishOS.</li>
-<li><i>Check also my other repos, you might find something interesting!</li>
-</ul>
+</p>
