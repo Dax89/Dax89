@@ -27,7 +27,7 @@ All my projects and discoveries are shared here on GitHub for others to explore 
 
 <p align="right">
   <i>
-    If you find my open-source work helpful,<br>
+    If you find my open-source work helpful<br>
     consider supporting it by <a href="https://github.com/sponsors/Dax89" target="_blank" rel="noreferrer">sponsoring me</a>!
   </i>
 </p>
