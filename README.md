@@ -5,8 +5,8 @@ I focus on low-level systems, from hardware interactions to software analysis li
 All my projects and discoveries are shared here on GitHub for others to explore and learn from.
 
 * 🌍  I'm based in Sardinia, Italy 🇮🇹
-* 🚀  I'm working on [REDasm Disassembler](http://redasm.dev) since 2017
-* 🐧  [Void Linux](https://voidlinux.org) user
+* 🚀  I'm working on [REDasm Disassembler](http://redasm.dev) since 2017
+* 🐧  [Void Linux](https://voidlinux.org) user
 
 ### Skills
 <p align="left">
